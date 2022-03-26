@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/marcost96/hiddengamers-launcher/clients/hiddengamers"
-	"github.com/marcost96/hiddengamers-launcher/config"
-	"github.com/marcost96/hiddengamers-launcher/storage"
+	"github.com/Yoti10/HiddenGamersD2-Launcher/clients/hiddengamers"
+	"github.com/Yoti10/HiddenGamersD2-Launcher/config"
+	"github.com/Yoti10/HiddenGamersD2-Launcher/storage"
 	"github.com/nokka/slashdiablo-launcher/log"
 )
 

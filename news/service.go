@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/marcost96/hiddengamers-launcher/clients/hiddengamers"
+	"github.com/Yoti10/HiddenGamersD2-Launcher/clients/hiddengamers"
 )
 
 // Service is responsible for all things related to the news.
